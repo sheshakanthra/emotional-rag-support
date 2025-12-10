@@ -1,0 +1,6 @@
+sentence-transformers
+scikit-learn
+numpy
+bcrypt
+python-dotenv
+google-generativeai
